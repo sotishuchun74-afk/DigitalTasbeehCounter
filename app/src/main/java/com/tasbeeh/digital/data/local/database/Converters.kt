@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.data.local.database
+package com.tasbeeh.digital.data.local.database
 
 import androidx.room.TypeConverter
 import java.util.Date

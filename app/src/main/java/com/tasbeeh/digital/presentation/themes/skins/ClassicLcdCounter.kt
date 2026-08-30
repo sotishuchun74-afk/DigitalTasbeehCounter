@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.presentation.themes.skins
+package com.tasbeeh.digital.presentation.themes.skins
 
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background

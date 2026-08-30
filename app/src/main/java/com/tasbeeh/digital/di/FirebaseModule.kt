@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.di
+package com.tasbeeh.digital.di
 
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore

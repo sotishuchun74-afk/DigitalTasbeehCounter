@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.core.hardware.haptics
+package com.tasbeeh.digital.core.hardware.haptics
 
 import android.content.Context
 import android.os.Build

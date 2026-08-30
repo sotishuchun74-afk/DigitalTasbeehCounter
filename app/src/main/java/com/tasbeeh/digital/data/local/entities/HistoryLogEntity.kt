@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.data.local.entities
+package com.tasbeeh.digital.data.local.entities
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

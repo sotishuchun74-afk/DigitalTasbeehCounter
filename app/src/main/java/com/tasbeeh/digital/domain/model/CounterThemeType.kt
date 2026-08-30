@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.domain.model
+package com.tasbeeh.digital.domain.model
 
 enum class CounterThemeType {
     MINIMAL_RING,

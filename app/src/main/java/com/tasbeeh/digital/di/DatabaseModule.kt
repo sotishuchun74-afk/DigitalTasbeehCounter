@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.di
+package com.tasbeeh.digital.di
 
 import android.content.Context
 import androidx.room.Room

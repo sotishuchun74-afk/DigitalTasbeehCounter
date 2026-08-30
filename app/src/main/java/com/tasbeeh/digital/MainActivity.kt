@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital
+package com.tasbeeh.digital
 
 import android.os.Bundle
 import android.view.KeyEvent

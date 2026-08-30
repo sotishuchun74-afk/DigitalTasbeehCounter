@@ -1,4 +1,4 @@
-﻿# Digital Tasbeeh Counter
+# Digital Tasbeeh Counter
 
 An advanced, production-grade Android Islamic prayer counter built with Jetpack Compose (Material 3), Room Database, Hardware Sensory Engines, and Firebase Firestore Cloud Sync.
 

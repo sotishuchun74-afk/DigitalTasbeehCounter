@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.presentation.settings
+package com.tasbeeh.digital.presentation.settings
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row

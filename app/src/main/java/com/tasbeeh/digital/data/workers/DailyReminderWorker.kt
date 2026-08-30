@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.data.workers
+package com.tasbeeh.digital.data.workers
 
 import android.app.NotificationChannel
 import android.app.NotificationManager

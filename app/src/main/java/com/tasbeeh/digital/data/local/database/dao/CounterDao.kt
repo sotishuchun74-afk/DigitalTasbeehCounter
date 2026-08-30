@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.data.local.database.dao
+package com.tasbeeh.digital.data.local.database.dao
 
 import androidx.room.Dao
 import androidx.room.Insert

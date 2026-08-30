@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.presentation.counter
+package com.tasbeeh.digital.presentation.counter
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable

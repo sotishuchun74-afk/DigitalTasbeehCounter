@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.core.hardware.audio
+package com.tasbeeh.digital.core.hardware.audio
 
 import android.content.Context
 import android.media.AudioAttributes

@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.presentation.themes.skins
+package com.tasbeeh.digital.presentation.themes.skins
 
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.tween

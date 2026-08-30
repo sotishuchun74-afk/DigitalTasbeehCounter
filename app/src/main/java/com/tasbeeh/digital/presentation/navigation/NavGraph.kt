@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.presentation.navigation
+package com.tasbeeh.digital.presentation.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState

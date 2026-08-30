@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.di
+package com.tasbeeh.digital.di
 
 import com.tasbeeh.digital.core.hardware.audio.SoundEngine
 import com.tasbeeh.digital.core.hardware.audio.SoundEngineImpl

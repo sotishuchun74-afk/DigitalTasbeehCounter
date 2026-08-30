@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.data.remote.sync
+package com.tasbeeh.digital.data.remote.sync
 
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore

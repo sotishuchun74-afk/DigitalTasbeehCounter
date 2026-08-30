@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.data.local.database
+package com.tasbeeh.digital.data.local.database
 
 enum class SyncStatus {
     SYNCED,

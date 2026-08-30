@@ -1,4 +1,4 @@
-﻿# Room Database rules
+# Room Database rules
 -keepclassmembers class * extends androidx.room.RoomDatabase {
     <init>();
 }

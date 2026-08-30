@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.presentation.counter
+package com.tasbeeh.digital.presentation.counter
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

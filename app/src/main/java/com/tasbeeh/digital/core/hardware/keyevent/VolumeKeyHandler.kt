@@ -1,4 +1,4 @@
-﻿package com.tasbeeh.digital.core.hardware.keyevent
+package com.tasbeeh.digital.core.hardware.keyevent
 
 import android.view.KeyEvent
 import kotlinx.coroutines.flow.MutableSharedFlow
