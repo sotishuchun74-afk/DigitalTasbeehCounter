@@ -63,13 +63,13 @@ fun MisbahaBeadsSkin(
             modifier = Modifier.fillMaxWidth()
         ) {
             Text(
-                text = "Count:  / ",
+                text = "Count: $count / $target",
                 color = PearlGlow,
                 fontSize = 24.sp,
                 fontWeight = FontWeight.SemiBold
             )
             Text(
-                text = "Rounds: ",
+                text = "Rounds: $rounds",
                 color = AmberCore,
                 fontSize = 16.sp,
                 fontWeight = FontWeight.Medium

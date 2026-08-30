@@ -79,7 +79,7 @@ fun ClassicLcdCounter(
                     modifier = Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.SpaceBetween
                 ) {
-                    Text("ROUNDS: ", color = LcdActiveSegment, fontSize = 14.sp)
+                    Text("ROUNDS: $rounds", color = LcdActiveSegment, fontSize = 14.sp)
                     Text("DIGITAL-77", color = LcdActiveSegment, fontSize = 12.sp)
                 }
 

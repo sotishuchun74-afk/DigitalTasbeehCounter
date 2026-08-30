@@ -51,7 +51,6 @@ fun CounterScreen(
     var showThemeMenu by remember { mutableStateOf(false) }
 
     Box(modifier = Modifier.fillMaxSize()) {
-        // Active Skin Background & Canvas
         when (state.selectedTheme) {
             CounterThemeType.MINIMAL_RING -> MinimalRingCounter(
                 count = state.currentCount,
@@ -76,14 +75,12 @@ fun CounterScreen(
             )
         }
 
-        // Overlay HUD Elements
         Column(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(horizontal = 20.dp, vertical = 40.dp),
             verticalArrangement = Arrangement.SpaceBetween
         ) {
-            // Top HUD Bar
             Row(
                 modifier = Modifier.fillMaxWidth(),
                 horizontalArrangement = Arrangement.SpaceBetween,
@@ -99,9 +96,8 @@ fun CounterScreen(
                 }
 
                 Row(verticalAlignment = Alignment.CenterVertically) {
-                    // Quick Target Switcher
                     Text(
-                        text = "Goal: ",
+                        text = "Goal: ${state.targetCount}",
                         color = Color(0xFFF5A623),
                         fontSize = 14.sp,
                         fontWeight = FontWeight.Bold,
@@ -121,7 +117,6 @@ fun CounterScreen(
                 }
             }
 
-            // Bottom Floating Controls
             Row(
                 modifier = Modifier.fillMaxWidth(),
                 horizontalArrangement = Arrangement.SpaceBetween,
@@ -132,7 +127,7 @@ fun CounterScreen(
                     val seconds = state.elapsedSessionSeconds % 60
                     val timeStr = String.format("%02d:%02d", minutes, seconds)
                     Text(
-                        text = "Session: ",
+                        text = "Session: $timeStr",
                         color = Color.White.copy(alpha = 0.7f),
                         fontSize = 14.sp,
                         modifier = Modifier.clickable { onEvent(CounterUiEvent.ToggleTimerState) }
@@ -148,7 +143,6 @@ fun CounterScreen(
             }
         }
 
-        // Theme Selector Dialog
         if (showThemeMenu) {
             AlertDialog(
                 onDismissRequest = { showThemeMenu = false },
@@ -176,7 +170,6 @@ fun CounterScreen(
             )
         }
 
-        // Reset Confirmation Dialog
         if (state.showResetConfirmationDialog) {
             AlertDialog(
                 onDismissRequest = { onEvent(CounterUiEvent.DismissResetConfirmation) },
@@ -195,7 +188,6 @@ fun CounterScreen(
             )
         }
 
-        // Target Input Dialog
         if (state.showTargetInputDialog) {
             var targetInput by remember { mutableStateOf(state.targetCount.toString()) }
             AlertDialog(

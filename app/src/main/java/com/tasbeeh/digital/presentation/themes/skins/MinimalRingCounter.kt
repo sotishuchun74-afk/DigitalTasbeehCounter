@@ -96,7 +96,7 @@ fun MinimalRingCounter(
                 .padding(horizontal = 10.dp, vertical = 4.dp)
         ) {
             Text(
-                text = "%",
+                text = "${(progress * 100).toInt()}%",
                 color = EmeraldBg,
                 fontSize = 12.sp,
                 fontWeight = FontWeight.Bold
@@ -112,7 +112,7 @@ fun MinimalRingCounter(
                 fontFamily = FontFamily.SansSerif
             )
             Text(
-                text = "GOAL: ",
+                text = "GOAL: $target",
                 color = Color.White.copy(alpha = 0.6f),
                 fontSize = 14.sp,
                 letterSpacing = 2.sp,
