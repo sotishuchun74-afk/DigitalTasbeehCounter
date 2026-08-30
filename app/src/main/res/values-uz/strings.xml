@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raqamli Tasbeh</string>
+    <string name="settings_title">Sozlamalar</string>
+    <string name="backup_sync_title">Bulutli Saqlash va Sinxronlash</string>
+    <string name="backup_now">Hozir Saqlash</string>
+    <string name="restore_records">Qayta Tiklash</string>
+    <string name="last_synced">Oxirgi sinxronlash: %1$s</string>
+    <string name="controls_tuning">Boshqaruv va Tebranish</string>
+    <string name="sound_click">Tugma Ovoz Effekti</string>
+    <string name="sound_chime">Doira Tugash Qo\'ng\'irog\'i</string>
+    <string name="haptic_click">Vibratsiya</string>
+    <string name="haptic_strength">Tebranish Quvvati</string>
+    <string name="hardware_keys">Ovoz Tugmalari Bilan Sanash</string>
+    <string name="display_hud">Ekran Ko\'rinishi</string>
+    <string name="show_timer">Sessiya Vaqti</string>
+    <string name="show_rounds">Doiralar Hisobi</string>
+    <string name="daily_reminder">Kunlik Eslatma</string>
+    <string name="reminder_time">Eslatma Vaqti: %1$s</string>
+    <string name="language_select">Til</string>
+    <string name="reset_confirm_title">Tasbehni nollash?</string>
+    <string name="reset_confirm_message">Joriy hisobingiz 0 ga qaytariladi.</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="reset">Qaytarish</string>
+    <string name="save">Saqlash</string>
+    <string name="target_goal">Maqsad Chegarasi</string>
+    <string name="enter_target">Maqsad raqamini kiriting</string>
+</resources>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digital Tasbeeh</string>
+    <string name="settings_title">Settings</string>
+    <string name="backup_sync_title">Backup &amp; Cloud Sync</string>
+    <string name="backup_now">Backup Now</string>
+    <string name="restore_records">Restore Records</string>
+    <string name="last_synced">Last Synced: %1$s</string>
+    <string name="controls_tuning">Controls &amp; Feedback</string>
+    <string name="sound_click">Count Click Sound</string>
+    <string name="sound_chime">Round Completion Chime</string>
+    <string name="haptic_click">Count Vibration</string>
+    <string name="haptic_strength">Vibration Intensity</string>
+    <string name="hardware_keys">Volume Keys Intercept</string>
+    <string name="display_hud">Display Configurations</string>
+    <string name="show_timer">Session Timer</string>
+    <string name="show_rounds">Round Tracker</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="reminder_time">Reminder Time: %1$s</string>
+    <string name="language_select">Language</string>
+    <string name="reset_confirm_title">Reset Counter?</string>
+    <string name="reset_confirm_message">This will reset your current count to 0.</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="target_goal">Target Goal</string>
+    <string name="enter_target">Enter target number</string>
+</resources>

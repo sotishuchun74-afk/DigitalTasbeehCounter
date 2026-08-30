@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Цифровой Тасбих</string>
+    <string name="settings_title">Настройки</string>
+    <string name="backup_sync_title">Резервное копирование и синхронизация</string>
+    <string name="backup_now">Синхронизировать</string>
+    <string name="restore_records">Восстановить</string>
+    <string name="last_synced">Посл. синхронизация: %1$s</string>
+    <string name="controls_tuning">Управление и отклик</string>
+    <string name="sound_click">Звук нажатия</string>
+    <string name="sound_chime">Сигнал завершения круга</string>
+    <string name="haptic_click">Вибрация</string>
+    <string name="haptic_strength">Сила вибрации</string>
+    <string name="hardware_keys">Счет кнопками громкости</string>
+    <string name="display_hud">Настройки экрана</string>
+    <string name="show_timer">Таймер сессии</string>
+    <string name="show_rounds">Счетчик кругов</string>
+    <string name="daily_reminder">Ежедневное напоминание</string>
+    <string name="reminder_time">Время напоминания: %1$s</string>
+    <string name="language_select">Язык</string>
+    <string name="reset_confirm_title">Сбросить счетчик?</string>
+    <string name="reset_confirm_message">Текущее значение будет сброшено на 0.</string>
+    <string name="cancel">Отмена</string>
+    <string name="reset">Сброс</string>
+    <string name="save">Сохранить</string>
+    <string name="target_goal">Цель счета</string>
+    <string name="enter_target">Введите целевое число</string>
+</resources>

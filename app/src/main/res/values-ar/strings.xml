@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المسبحة الإلكترونية</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="backup_sync_title">النسخ الاحتياطي والمزامنة</string>
+    <string name="backup_now">نسخ احتياطي الآن</string>
+    <string name="restore_records">استعادة البيانات</string>
+    <string name="last_synced">آخر مزامنة: %1$s</string>
+    <string name="controls_tuning">التحكم والتنبيهات</string>
+    <string name="sound_click">صوت النقر</string>
+    <string name="sound_chime">صوت اكتمال الدورة</string>
+    <string name="haptic_click">الاهتزاز عند النقر</string>
+    <string name="haptic_strength">قوة الاهتزاز</string>
+    <string name="hardware_keys">أزرار الصوت للعد</string>
+    <string name="display_hud">خيارات العرض</string>
+    <string name="show_timer">مؤقت الجلسة</string>
+    <string name="show_rounds">عداد الدورات</string>
+    <string name="daily_reminder">التذكير اليومي</string>
+    <string name="reminder_time">وقت التذكير: %1$s</string>
+    <string name="language_select">اللغة</string>
+    <string name="reset_confirm_title">إعادة تعيين العداد؟</string>
+    <string name="reset_confirm_message">سيتم إعادة تعيين العدد الحالي إلى صفر.</string>
+    <string name="cancel">إلغاء</string>
+    <string name="reset">إعادة تعيين</string>
+    <string name="save">حفظ</string>
+    <string name="target_goal">الهدف المحدد</string>
+    <string name="enter_target">أدخل العدد المستهدف</string>
+</resources>
